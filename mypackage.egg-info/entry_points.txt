@@ -1,0 +1,3 @@
+[console_scripts]
+unikllogin = mypackage.portalscraper:login
+unikltt = mypackage.portalscraper:timetable
